@@ -1,0 +1,44 @@
+/**
+    * @name Essence
+    * @description A smooth, rounded theme.
+    * @author LuckFire#4800
+    * @version 1.0.0
+    *
+    * @website https://github.com/discord-extensions
+    * @source https://github.com/discord-extensions/essence
+    * @invite vYdXbEzqDs
+**/
+
+/* || ➕ Addons */
+@import url('https://web.archive.org/web/20230317020708cs_/https://discord-extensions.github.io/essence/src/vendors/friends-grid.css');
+@import url('https://web.archive.org/web/20230317020708cs_/https://discord-extensions.github.io/essence/src/vendors/iconsax-discord.css');
+
+/* || 🎨 Theme Palettes
+ * At least one theme palette must be enabled for the theme to properly display.
+ * For theme previews, please check out the preview markdown file on the repo.
+ */
+@import url('https://web.archive.org/web/20230317020708cs_/https://discord-extensions.github.io/essence/src/themes/essence-default.css');
+/* @import url('https://web.archive.org/web/20230317020708cs_/https://discord-extensions.github.io/essence/src/themes/midnight-mars.css'); */
+/* @import url('https://web.archive.org/web/20230317020708cs_/https://discord-extensions.github.io/essence/src/themes/nord.css'); */
+
+/* || 📢 Source */
+@import url('https://web.archive.org/web/20230317020708cs_/https://discord-extensions.github.io/essence/src/source.css');
+/*
+     FILE ARCHIVED ON 02:07:08 Mar 17, 2023 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 11:17:28 Feb 08, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  exclusion.robots: 0.068
+  exclusion.robots.policy: 0.057
+  cdx.remote: 0.089
+  esindex: 0.01
+  LoadShardBlock: 255.743 (6)
+  PetaboxLoader3.datanode: 218.889 (7)
+  load_resource: 72.677
+  PetaboxLoader3.resolve: 47.618
+*/
